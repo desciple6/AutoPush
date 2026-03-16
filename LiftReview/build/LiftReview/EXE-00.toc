@@ -1,0 +1,3198 @@
+('C:\\Users\\User\\Desktop 3\\LiftReview\\dist\\LiftReview.exe',
+ False,
+ False,
+ False,
+ 'C:\\Users\\User\\Desktop '
+ '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\User\\Desktop 3\\LiftReview\\build\\LiftReview\\LiftReview.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\User\\Desktop 3\\LiftReview\\build\\LiftReview\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqtgraph_multiprocess',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pyqtgraph_multiprocess.py',
+   'PYSOURCE'),
+  ('main', 'C:\\Users\\User\\Desktop 3\\LiftReview\\main.py', 'PYSOURCE'),
+  ('mediapipe\\tasks\\c\\libmediapipe.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\c\\libmediapipe.dll',
+   'BINARY'),
+  ('python314.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg4130_64.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg4130_64.dll',
+   'BINARY'),
+  ('scipy.libs\\libscipy_openblas-64eda39e79589aedb16f58e5547eb599.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy.libs\\libscipy_openblas-64eda39e79589aedb16f58e5547eb599.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio64bit-asio.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio64bit-asio.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio64bit.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio64bit.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_philox.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_generator.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_common.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_path.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\_path.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\ft2font.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\ft2font.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\backends\\_backend_agg.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\backends\\_backend_agg.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('contourpy\\_contourpy.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\contourpy\\_contourpy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_image.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\_image.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_tri.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\_tri.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_qhull.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\_qhull.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\sip.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\sip.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtGui.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtTest.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtTest.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtOpenGLWidgets.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtOpenGLWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtOpenGL.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtOpenGL.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtSvg.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtSvg.pyd',
+   'EXTENSION'),
+  ('kiwisolver\\_cext.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\kiwisolver\\_cext.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_c_internal_utils.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\_c_internal_utils.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2\\cv2.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\cv2.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_ccallback_c.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\_lib\\_ccallback_c.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_lapack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\cython_lapack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_blas.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\cython_blas.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_update.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_update.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ellip_harm_2.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_ellip_harm_2.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highspy\\_core.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_highspy\\_core.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highspy\\_highs_options.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_highspy\\_highs_options.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_direct.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_direct.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_qmc_cy.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_qmc_cy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_sobol.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_sobol.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_wrap.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_distance_wrap.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_pybind.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_distance_pybind.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_hausdorff.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_hausdorff.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_tools.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_tools.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_reordering.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_matching.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_matching.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_flow.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_flow.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_min_spanning_tree.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_min_spanning_tree.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_traversal.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_shortest_path.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_shortest_path.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_rank_filter_1d.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\ndimage\\_rank_filter_1d.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_nd_image.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\ndimage\\_nd_image.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_ni_label.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\ndimage\\_ni_label.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rgi_cython.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_rgi_cython.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_interpnd.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_interpnd.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rbfinterp_pythran.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp_pythran.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_ppoly.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_ppoly.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_dierckx.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_dierckx.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_dfitpack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_dfitpack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_fitpack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats_pythran.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_stats_pythran.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\fft\\_pocketfft\\pypocketfft.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\pypocketfft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_uarray\\_uarray.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\_lib\\_uarray\\_uarray.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_rcont\\rcont.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_rcont\\rcont.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_qmvnt_cy.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_qmvnt_cy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_ansari_swilk_statistics.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_ansari_swilk_statistics.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_levy_stable\\levyst.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_levy_stable\\levyst.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_biasedurn.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_biasedurn.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\_cffi_backend.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\stats\\_stats.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\cython_special.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\cython_special.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\transform\\_rigid_transform_cy.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rigid_transform_cy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\transform\\_rotation_cy.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_cy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_voronoi.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_voronoi.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_qhull.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_qhull.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_ckdtree.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\spatial\\_ckdtree.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_cyutility.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\_cyutility.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_pava_pybind.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_pava_pybind.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsq\\givens_elimination.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\givens_elimination.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsap.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lsap.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_interpolative.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_interpolative.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_bglu_dense.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_bglu_dense.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_slsqplib.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_slsqplib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_zeros.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_zeros.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_minpack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_minpack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_trlib\\_trlib.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_trlib\\_trlib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_moduleTNC.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_moduleTNC.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lbfgsb.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lbfgsb.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_group_columns.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\optimize\\_group_columns.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_dop.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\integrate\\_dop.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_vode.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\integrate\\_vode.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_quadpack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\integrate\\_quadpack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_odepack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\integrate\\_odepack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_gufuncs.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_gufuncs.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_special_ufuncs.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_special_ufuncs.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_comb.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_comb.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_specfun.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_specfun.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_ufuncs.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs_cxx.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\special\\_ufuncs_cxx.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_sqrtm_triu.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm_triu.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_linalg_pythran.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_linalg_pythran.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_expm.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_expm.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_schur_sqrtm.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_schur_sqrtm.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_lu_cython.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_lu_cython.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_solve_toeplitz.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_solve_toeplitz.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_batched_linalg.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_batched_linalg.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_cythonized_array_utils.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_cythonized_array_utils.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_flapack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_flapack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_fblas.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\linalg\\_fblas.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_eigen\\arpack\\_arpacklib.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\_arpacklib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_dsolve\\_superlu.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_superlu.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_csparsetools.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\_csparsetools.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_sparsetools.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\sparse\\_sparsetools.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\io\\_fast_matrix_market\\_fmm_core.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\io\\_fast_matrix_market\\_fmm_core.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_fpumode.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\_lib\\_fpumode.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\messagestream.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\_lib\\messagestream.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\io\\matlab\\_streams.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\io\\matlab\\_streams.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\io\\matlab\\_mio5_utils.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\io\\matlab\\_mio5_utils.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\io\\matlab\\_mio_utils.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\io\\matlab\\_mio_utils.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_peak_finding_utils.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_peak_finding_utils.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sosfilt.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_sosfilt.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_spline.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_spline.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_upfirdn_apply.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_upfirdn_apply.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_max_len_seq_inner.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sigtools.cp314-win_amd64.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\scipy\\signal\\_sigtools.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtCore.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtWidgets.pyd',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\python3.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Test.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Test.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6OpenGLWidgets.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6OpenGLWidgets.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6OpenGL.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6OpenGL.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('mediapipe-0.10.32.dist-info\\INSTALLER',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\INSTALLER',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\METADATA',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\METADATA',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\RECORD',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\RECORD',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\REQUESTED',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\REQUESTED',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\WHEEL',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\WHEEL',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('mediapipe-0.10.32.dist-info\\top_level.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe-0.10.32.dist-info\\top_level.txt',
+   'DATA'),
+  ('mediapipe\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\__init__.py',
+   'DATA'),
+  ('mediapipe\\modules\\hand_landmark\\handedness.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\modules\\hand_landmark\\handedness.txt',
+   'DATA'),
+  ('mediapipe\\modules\\objectron\\object_detection_oidv4_labelmap.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\modules\\objectron\\object_detection_oidv4_labelmap.txt',
+   'DATA'),
+  ('mediapipe\\tasks\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\c\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\c\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\image_segmenter_metadata_schema.fbs',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\image_segmenter_metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\image_segmenter_metadata_schema_py_generated.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\image_segmenter_metadata_schema_py_generated.py',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\metadata_schema.fbs',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\metadata_schema_py_generated.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\metadata_schema_py_generated.py',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\object_detector_metadata_schema.fbs',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\object_detector_metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\object_detector_metadata_schema_py_generated.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\object_detector_metadata_schema_py_generated.py',
+   'DATA'),
+  ('mediapipe\\tasks\\metadata\\schema_py_generated.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\metadata\\schema_py_generated.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\audio\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\audio\\audio_classifier.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\audio_classifier.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\audio\\core\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\audio\\core\\audio_record.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\audio_record.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\audio\\core\\audio_task_running_mode.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\audio_task_running_mode.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\benchmark_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\benchmark_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\vision\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\vision\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\vision\\benchmark.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\vision\\benchmark.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\vision\\core\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\vision\\core\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\benchmark\\vision\\core\\base_vision_benchmark_api.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\benchmark\\vision\\core\\base_vision_benchmark_api.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\audio_data.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\audio_data.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\audio_data_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\audio_data_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\bounding_box.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\bounding_box.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\category.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\category.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\category_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\category_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\classification_result.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\classification_result.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\classification_result_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\classification_result_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\detections.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\detections.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\detections_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\detections_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\embedding_result.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\embedding_result.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\embedding_result_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\embedding_result_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\keypoint.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\keypoint.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\keypoint_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\keypoint_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\landmark.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\landmark_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\landmark_detection_result.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark_detection_result.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\matrix_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\matrix_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\rect.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\rect.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\containers\\rect_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\rect_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\processors\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\processors\\classifier_options.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\classifier_options.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\processors\\classifier_options_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\classifier_options_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\utils\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\utils\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\components\\utils\\cosine_similarity.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\utils\\cosine_similarity.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\async_result_dispatcher.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\async_result_dispatcher.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\base_options.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\base_options.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\base_options_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\base_options_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\mediapipe_c_bindings.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\mediapipe_c_bindings.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\mediapipe_c_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\mediapipe_c_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\optional_dependencies.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\optional_dependencies.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\core\\serial_dispatcher.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\serial_dispatcher.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_metadata_options_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\bundler\\llm_bundler_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\converter_base.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\converter_base.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\converter_factory.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\converter_factory.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\external_dependencies.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\external_dependencies.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\llm_converter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\llm_converter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\llm_converter_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\llm_converter_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\pytorch_converter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\pytorch_converter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\pytorch_converter_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\pytorch_converter_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\quantization_util.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\quantization_util.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\quantization_util_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\quantization_util_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\safetensors_converter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\safetensors_converter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\safetensors_converter_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\safetensors_converter_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\weight_bins_writer.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\weight_bins_writer.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\genai\\converter\\weight_bins_writer_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\converter\\weight_bins_writer_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_displayer_cli.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_displayer_cli.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\image_classifier.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\image_classifier.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\image_segmenter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\image_segmenter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\metadata_info.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\metadata_info.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\metadata_writer.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\metadata_writer.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\model_asset_bundle_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\model_asset_bundle_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\object_detector.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\object_detector.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\text_classifier.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\text_classifier.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\metadata\\metadata_writers\\writer_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\metadata\\metadata_writers\\writer_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\audio\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\audio\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\audio\\audio_classifier_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\audio\\audio_classifier_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\test_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\test_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\text\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\text\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\text\\language_detector_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\text\\language_detector_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\text\\text_classifier_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\text\\text_classifier_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\text\\text_embedder_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\text\\text_embedder_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\face_detector_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\face_detector_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\face_landmarker_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\face_landmarker_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\hand_landmarker_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\hand_landmarker_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\image_classifier_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\image_classifier_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\image_embedder_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\image_embedder_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\image_segmenter_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\image_segmenter_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\image_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\image_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\interactive_segmenter_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\interactive_segmenter_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\object_detector_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\object_detector_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\pose_landmarker_test.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\pose_landmarker_test.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\test\\vision\\proto_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\test\\vision\\proto_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\text\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\text\\language_detector.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\language_detector.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\text\\text_classifier.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\text_classifier.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\text\\text_embedder.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\text_embedder.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\core\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\__init__.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\core\\image.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\core\\image_processing_options.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image_processing_options.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\core\\image_processing_options_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image_processing_options_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\core\\vision_task_running_mode.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\vision_task_running_mode.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\drawing_styles.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\drawing_styles.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\drawing_utils.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\drawing_utils.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\face_detector.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\face_detector.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\face_landmarker.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\face_landmarker.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\gesture_recognizer.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\gesture_recognizer_result.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer_result.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\gesture_recognizer_result_c.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer_result_c.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\hand_landmarker.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\hand_landmarker.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\image_classifier.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_classifier.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\image_embedder.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_embedder.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\image_segmenter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_segmenter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\interactive_segmenter.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\interactive_segmenter.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\object_detector.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\object_detector.py',
+   'DATA'),
+  ('mediapipe\\tasks\\python\\vision\\pose_landmarker.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\pose_landmarker.py',
+   'DATA'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtcharts.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtcharts.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qaxcontainer.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtquickwidgets.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtquickwidgets.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtprintsupport.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qscintilla.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qscintilla.py',
+   'DATA'),
+  ('PyQt6\\uic\\widget-plugins\\qtopenglwidgets.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\uic\\widget-plugins\\qtopenglwidgets.py',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\kpsewhich.lua',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\kpsewhich.lua',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\matplotlibrc',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\matplotlibrc',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\petroff10.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\petroff10.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\README.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\README.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.pdf',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'DATA'),
+  ('cv2\\config-3.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\config-3.py',
+   'DATA'),
+  ('cv2\\load_config_py3.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\load_config_py3.py',
+   'DATA'),
+  ('cv2\\config.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\config.py',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('_sounddevice_data\\portaudio-binaries\\README.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\README.md',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CC-BY license - applies to CET color map data.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CC-BY '
+   'license - applies to CET color map data.txt',
+   'DATA'),
+  ('pyqtgraph\\Qt\\QtSvg.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtSvg.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C1s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C1s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D1A.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D1A.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBL2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBL2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CC0 legal code - applies to virids, magma, '
+   'plasma, inferno and cividis.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CC0 '
+   'legal code - applies to virids, magma, plasma, inferno and cividis.txt',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L16.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L16.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\viridis.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\viridis.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D13.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D13.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C4.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C4.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C6s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C6s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L7.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\inferno.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\inferno.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\PAL-relaxed.hex',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\PAL-relaxed.hex',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\cividis.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\cividis.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D7.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBC2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBC2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C4s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C4s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBL1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBL1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTL1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTL1.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee.svg',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_256px.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_256px.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D11.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D11.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBC1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBC1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\plasma.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\plasma.csv',
+   'DATA'),
+  ('pyqtgraph\\Qt\\QtWidgets\\__init__.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtWidgets\\__init__.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D4.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D4.csv',
+   'DATA'),
+  ('pyqtgraph\\Qt\\QtGui\\__init__.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtGui\\__init__.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\magma.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\magma.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\auto.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\auto.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L8.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L8.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\turbo.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\turbo.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L10.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L10.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTL2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTL2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L4.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L4.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\icons.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\icons.svg',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L6.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L6.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTC2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTC2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R3.csv',
+   'DATA'),
+  ('pyqtgraph\\Qt\\QtTest.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtTest.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L15.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L15.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L18.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L18.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L13.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L13.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L17.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L17.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L9.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L9.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D9.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D9.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R2.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\invisibleEye.svg',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\invisibleEye.svg',
+   'DATA'),
+  ('pyqtgraph\\icons\\ctrl.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\ctrl.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D10.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D10.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\default.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\default.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C6.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C6.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C5.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C5.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L12.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L12.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L19.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L19.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C5s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C5s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L5.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L5.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_512px.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_512px.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L14.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L14.csv',
+   'DATA'),
+  ('pyqtgraph\\Qt\\QtCore\\__init__.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtCore\\__init__.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C7.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTC1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTC1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C3.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\lock.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\lock.png',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_128px@2x.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_128px@2x.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L1.csv',
+   'DATA'),
+  ('pyqtgraph\\Qt\\__init__.pyi',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\Qt\\__init__.pyi',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L11.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L11.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_256px@2x.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_256px@2x.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBD1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBD1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D8.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D8.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R4.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R4.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_128px.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_128px.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C2s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C2s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C3s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C3s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTD1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTD1.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_512px@2x.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_512px@2x.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D6.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D6.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C7s.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C7s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D2.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D3.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D12.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D12.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\PAL-relaxed_bright.hex',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\PAL-relaxed_bright.hex',
+   'DATA'),
+  ('pyqtgraph\\icons\\peegee\\peegee_192px.png',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\icons\\peegee\\peegee_192px.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I1.csv',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I1.csv',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ka.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_cs.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ru.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lt.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_gl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_es.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_he.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_it.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_da.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_de.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_gd.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_uk.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_en.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fa.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ka.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_fr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\RECORD',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\entry_points.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\WHEEL',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\INSTALLER',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\METADATA',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\REQUESTED',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\numpy-2.4.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\__init__.py',
+   'DATA'),
+  ('cv2\\version.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\version.py',
+   'DATA'),
+  ('cv2\\utils\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\utils\\__init__.py',
+   'DATA'),
+  ('cv2\\typing\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\typing\\__init__.py',
+   'DATA'),
+  ('cv2\\misc\\version.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\misc\\version.py',
+   'DATA'),
+  ('cv2\\misc\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\misc\\__init__.py',
+   'DATA'),
+  ('cv2\\mat_wrapper\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
+   'DATA'),
+  ('cv2\\gapi\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\cv2\\data\\__init__.py',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\build\\LiftReview\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1773636503,
+ [('runw.exe',
+   'C:\\Users\\User\\Desktop '
+   '3\\LiftReview\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.dll')
