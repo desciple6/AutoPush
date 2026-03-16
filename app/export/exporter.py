@@ -54,9 +54,20 @@ class VideoExporter:
         width = player.width
         height = player.height
 
+        # Determine codec from output extension
+        ext = os.path.splitext(output_path)[1].lower()
+        codec_map = {
+            '.mp4': 'mp4v',
+            '.avi': 'XVID',
+            '.mov': 'mp4v',
+            '.mkv': 'mp4v',
+        }
+        codec = codec_map.get(ext, 'mp4v')
+        temp_suffix = ext if ext else '.mp4'
+
         # Write video without audio first
-        temp_video = tempfile.mktemp(suffix='.mp4')
-        fourcc = cv2.VideoWriter.fourcc(*'mp4v')
+        temp_video = tempfile.mktemp(suffix=temp_suffix)
+        fourcc = cv2.VideoWriter.fourcc(*codec)
         writer = cv2.VideoWriter(temp_video, fourcc, fps, (width, height))
 
         if not writer.isOpened():

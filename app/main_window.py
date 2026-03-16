@@ -58,6 +58,7 @@ class MainWindow(QMainWindow):
         # Velocity tracker
         self._velocity_tracker = VelocityTracker()
         self._velocity_graph = VelocityGraph()
+        self._velocity_graph.set_tracker(self._velocity_tracker)
         self._velocity_tracking_mode = False
 
         # Pose estimation
@@ -294,28 +295,35 @@ class MainWindow(QMainWindow):
         self._playback_timer.start(max(1, interval))
 
     def _stop_playback(self):
+        self._playback_timer.stop()
         self._is_playing = False
         self._controls.set_playing(False)
-        self._playback_timer.stop()
+        # Redisplay current frame with full overlays now that we're paused
+        if self._current_frame is not None:
+            self._run_pose_if_enabled(self._current_frame)
+            self._display_frame(self._current_frame)
 
     def _on_playback_tick(self):
-        if not self._player.is_loaded:
-            self._stop_playback()
+        if not self._player.is_loaded or not self._is_playing:
+            self._playback_timer.stop()
             return
 
         if self._is_reverse:
             frame = self._player.prev_frame()
             if self._player.frame_index <= 1:
                 self._stop_playback()
+                return
         else:
             frame = self._player.next_frame()
             if self._player.frame_index >= self._player.total_frames - 1:
                 self._stop_playback()
+                return
 
         if frame is not None:
             self._current_frame = frame
-            self._run_pose_if_enabled(frame)
             self._update_velocity_tracking(frame)
+            # Skip pose estimation during playback (too slow for real-time).
+            # Pose runs on pause, step, and seek instead.
             self._display_frame(frame)
 
     def _step_forward(self):
@@ -406,6 +414,7 @@ class MainWindow(QMainWindow):
             return
         # Velocity tracking mode: click to set tracking point
         if self._velocity_tracking_mode and self._current_frame is not None:
+            self._velocity_tracker.fps = self._player.fps
             self._velocity_tracker.start_tracking(
                 self._current_frame, (pos.x(), pos.y()), self._player.frame_index
             )
@@ -561,13 +570,32 @@ class MainWindow(QMainWindow):
         if not self._player.is_loaded:
             QMessageBox.information(self, "Info", "No video loaded to export.")
             return
-        path, _ = QFileDialog.getSaveFileName(
-            self, "Export Video", "", "MP4 Video (*.mp4);;All Files (*)"
+
+        export_filter = (
+            "MP4 Video (*.mp4);;"
+            "AVI Video (*.avi);;"
+            "MOV Video (*.mov);;"
+            "MKV Video (*.mkv);;"
+            "All Files (*)"
+        )
+        path, selected_filter = QFileDialog.getSaveFileName(
+            self, "Export Video", "", export_filter
         )
         if not path:
             return
-        if not path.endswith('.mp4'):
-            path += '.mp4'
+
+        # Add extension if not present based on selected filter
+        ext_map = {
+            "MP4": ".mp4", "AVI": ".avi", "MOV": ".mov", "MKV": ".mkv"
+        }
+        has_ext = any(path.lower().endswith(e) for e in ext_map.values())
+        if not has_ext:
+            for key, ext in ext_map.items():
+                if key in selected_filter:
+                    path += ext
+                    break
+            else:
+                path += ".mp4"
 
         progress = QProgressDialog("Exporting video...", "Cancel", 0, 100, self)
         progress.setWindowModality(Qt.WindowModality.WindowModal)
