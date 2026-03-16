@@ -1,5 +1,7 @@
 """Application configuration and constants."""
 
+import os
+
 APP_NAME = "LiftReview"
 APP_VERSION = "1.0.0"
 
@@ -14,7 +16,10 @@ DEFAULT_ANNOTATION_COLOR = (0, 255, 0)  # Green BGR
 ANNOTATION_THICKNESS = 2
 ANNOTATION_FONT_SCALE = 0.7
 
-# Pose estimation
+# Pose estimation - MediaPipe Tasks API model
+POSE_MODEL_URL = "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task"
+POSE_MODEL_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'models')
+POSE_MODEL_PATH = os.path.join(POSE_MODEL_DIR, 'pose_landmarker_lite.task')
 POSE_CONFIDENCE_THRESHOLD = 0.5
 POSE_SKELETON_COLOR_GOOD = (0, 255, 0)     # Green
 POSE_SKELETON_COLOR_WARNING = (0, 255, 255)  # Yellow

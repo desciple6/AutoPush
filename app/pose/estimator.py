@@ -1,16 +1,29 @@
-"""Pose estimator - wraps MediaPipe for skeleton detection."""
+"""Pose estimator - wraps MediaPipe PoseLandmarker (Tasks API) for skeleton detection."""
+
+import os
+import urllib.request
 
 import cv2
 import numpy as np
 import mediapipe as mp
 
-from app.config import POSE_CONFIDENCE_THRESHOLD
+from app.config import (
+    POSE_CONFIDENCE_THRESHOLD,
+    POSE_MODEL_URL,
+    POSE_MODEL_DIR,
+    POSE_MODEL_PATH,
+)
+
+BaseOptions = mp.tasks.BaseOptions
+PoseLandmarker = mp.tasks.vision.PoseLandmarker
+PoseLandmarkerOptions = mp.tasks.vision.PoseLandmarkerOptions
+VisionRunningMode = mp.tasks.vision.RunningMode
 
 
 class PoseEstimator:
-    """Detects human pose landmarks using MediaPipe Pose."""
+    """Detects human pose landmarks using MediaPipe PoseLandmarker (Tasks API)."""
 
-    # MediaPipe landmark indices for key body parts
+    # MediaPipe landmark indices for key body parts (same 33-point model)
     LANDMARKS = {
         'nose': 0,
         'left_shoulder': 11, 'right_shoulder': 12,
@@ -44,13 +57,25 @@ class PoseEstimator:
     ]
 
     def __init__(self):
-        self._pose = mp.solutions.pose.Pose(
-            static_image_mode=False,
-            model_complexity=1,
-            smooth_landmarks=True,
-            min_detection_confidence=POSE_CONFIDENCE_THRESHOLD,
-            min_tracking_confidence=POSE_CONFIDENCE_THRESHOLD
+        self._ensure_model_downloaded()
+        options = PoseLandmarkerOptions(
+            base_options=BaseOptions(model_asset_path=POSE_MODEL_PATH),
+            running_mode=VisionRunningMode.IMAGE,
+            num_poses=1,
+            min_pose_detection_confidence=POSE_CONFIDENCE_THRESHOLD,
+            min_pose_presence_confidence=POSE_CONFIDENCE_THRESHOLD,
         )
+        self._landmarker = PoseLandmarker.create_from_options(options)
+
+    @staticmethod
+    def _ensure_model_downloaded():
+        """Download the pose landmarker model if not already present."""
+        if os.path.exists(POSE_MODEL_PATH):
+            return
+        os.makedirs(POSE_MODEL_DIR, exist_ok=True)
+        print(f"Downloading pose model to {POSE_MODEL_PATH}...")
+        urllib.request.urlretrieve(POSE_MODEL_URL, POSE_MODEL_PATH)
+        print("Pose model downloaded.")
 
     def process(self, frame: np.ndarray) -> dict | None:
         """Process a frame and return landmark positions.
@@ -59,15 +84,17 @@ class PoseEstimator:
         or None if no pose detected.
         """
         rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-        results = self._pose.process(rgb)
+        mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=rgb)
+        result = self._landmarker.detect(mp_image)
 
-        if not results.pose_landmarks:
+        if not result.pose_landmarks or len(result.pose_landmarks) == 0:
             return None
 
         h, w = frame.shape[:2]
+        pose = result.pose_landmarks[0]  # First detected pose
         landmarks = {}
         for name, idx in self.LANDMARKS.items():
-            lm = results.pose_landmarks.landmark[idx]
+            lm = pose[idx]
             landmarks[name] = (
                 int(lm.x * w),
                 int(lm.y * h),
@@ -77,4 +104,4 @@ class PoseEstimator:
         return landmarks
 
     def close(self):
-        self._pose.close()
+        self._landmarker.close()

@@ -14,3 +14,4 @@ build/
 .idea/
 venv/
 env/
+*.task
